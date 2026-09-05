@@ -1,0 +1,1 @@
+html[data-surface=v2] body>div[class*="z-[10000]"]{display:none!important}html[data-surface=v2] body{overflow:hidden}.km-v2-barre{padding-bottom:calc(env(safe-area-inset-bottom, 0px) + .75rem)}.km-v2-contenu{padding-bottom:calc(env(safe-area-inset-bottom, 0px) + 7.5rem)}
